@@ -1,0 +1,21 @@
+certifi==2025.4.26
+cffi==1.17.1
+charset-normalizer==3.4.2
+diskcache==5.6.3
+idna==3.10
+Jinja2==3.1.6
+llama_cpp_python==0.3.9
+MarkupSafe==3.0.2
+numpy==2.2.5
+platformdirs==4.3.8
+pycparser==2.22
+pyserial==3.5
+pywhispercpp @ git+https://github.com/absadiki/pywhispercpp@e4ae10b782b58b5fe0c692576285a43beada3686
+requests==2.32.3
+scipy==1.15.3
+sounddevice==0.5.1
+tqdm==4.67.1
+typing_extensions==4.13.2
+Unidecode==1.4.0
+urllib3==2.4.0
+webrtcvad==2.0.10
