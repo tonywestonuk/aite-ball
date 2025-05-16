@@ -2,12 +2,14 @@
 An AI powered 8ball.
 
 #Shopping List
- - Orange Pi Ζero 2w + Mini HDMI lead to connect to a monitor.
+ - Orange Pi Ζero 2w + Mini HDMI lead to connect to a monitor + USB-C Power lead.
  - 32gb SD card
  - USB C mic
  - ESP32-C3 1.28 round lcd with Touch
  - Dupont TO SH1.0 4pin connector.
  - Donor 8Ball.
+ - Duct Tape.
+   
 
 
 # Step 1 - Install Armbian
