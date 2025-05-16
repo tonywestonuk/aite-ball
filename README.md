@@ -1,7 +1,7 @@
 # aite-ball
 An AI powered 8ball.
 
-#Shopping List
+# Shopping List
  - Orange Pi Ζero 2w + Mini HDMI lead to connect to a monitor + USB-C Power lead.
  - 32gb SD card
  - USB C mic
